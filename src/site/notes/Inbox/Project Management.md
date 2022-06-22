@@ -14,20 +14,7 @@
 [[Inbox/Секрет успешного продукта|Секрет успешного продукта]]
 [[Inbox/Чем занимается продакт менеджер|Чем занимается продакт менеджер]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-----
-Tags: #Product_management_cource_laba
+%%
 Link: [[Inbox/Product Manager|Product Manager]]
 
 creation date: 2022-01-13 14:47
